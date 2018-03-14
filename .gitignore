@@ -43,6 +43,7 @@ local.properties
 .texlipse
 
 # STS (Spring Tool Suite)
+.apt_generated
 .springBeans
 
 # Code Recommenders
